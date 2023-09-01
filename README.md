@@ -12,7 +12,7 @@ This is why I decided to found [Replica_IO](https://replica-io.dev/), an open-so
 
 I began working as a software engineer back in 2009. First 7 years, I was mostly focussed on developing low-level system software: I worked with such things as Linux kernel, microcontrollers, hardware emulation, and trusted execution. 
 
-In 2016, I moved to Germany and joined the [Security Group](https://neclab.eu/research-areas/security) at [NEC Laboratories Europe](https://neclab.eu/) in Heidelberg, where I first got into research and development in the areas of blockchain, distributed and decentralized systems. I got absolutely excited about this, and since then, I keep exapnding my knowledge and experience in that area, in particular, designing and implementing distributed protocols.
+In August 2016, I moved to Germany and joined the [Security Group](https://neclab.eu/research-areas/security) at [NEC Laboratories Europe](https://neclab.eu/) in Heidelberg, where I first got into research and development in the areas of blockchain, distributed and decentralized systems. I got absolutely excited about this, and since then, I keep exapnding my knowledge and experience in that area, in particular, designing and implementing distributed protocols.
 
 In April 2022, I left NEC and [joined](https://research.protocol.ai/blog/2022/sergey-fedorov-joins-consensuslab-as-a-research-engineer/) the [ConsensusLab](https://research.protocol.ai/groups/consensuslab/) Group at [Protocol Labs](https://protocol.ai/). I worked with Protocol Labs, doing research and open-source software engineering in the area of scalable decentralised consensus, until I left in February 2023. 
 
