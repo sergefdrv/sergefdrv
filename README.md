@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hi! 👋 I'm Sergey Fedorov, an Independent Research Engineer. I'm mostly interested in designing practical, full-featured, composable, and configurable fault-tolerant replication systems, as well as exploring clear and expressive ways to implement them. I'm also enthusiastic about exploring alternative programming models for distributed computing. I think that decentralized Byzantine-fault tolerant mechanisms will dominate in future computing systems, and I'm very excited about working towards that.
+Hi! 👋 I'm Sergey Fedorov, an Independent Research Engineer. I'm mostly interested in designing practical, full-featured, composable, and configurable fault-tolerant replication systems, as well as exploring clear and expressive ways to implement them. I'm also enthusiastic about exploring alternative programming models for distributed computing. I think that decentralized Byzantine-fault tolerant mechanisms should dominate in future computing systems, and I'm very excited about working towards that.
 
-I see myself best as someone discovering smart solutions to hard problems and doing this for the common good. In that, I believe in open source, open innovation and collaboration.
+I like to think of myself as someone discovering smart solutions to hard problems and doing this for the common good. In that, I believe in open source, open innovation and collaboration.
 
 This is why I decided to found [Replica_IO](https://replica-io.dev/), an open-source framework for building practical distributed replication mechanisms. If you're also excited about this initiative, feel free to contact me! Let's make a breakthrough in designing and implementing distributed replication protocols for the future of decentralized computing 🚀
 
@@ -14,18 +14,18 @@ I began working as a software engineer back in 2009. First 7 years, I was mostly
 
 In August 2016, I moved to Germany and joined the [Security Group](https://neclab.eu/research-areas/security) at [NEC Laboratories Europe](https://neclab.eu/) in Heidelberg, where I first got into research and development in the areas of blockchain, distributed and decentralized systems. I became absolutely excited about this, and since then, I keep expanding my knowledge and experience in that area, in particular, designing and implementing distributed protocols.
 
-In April 2022, I left NEC and [joined](https://research.protocol.ai/blog/2022/sergey-fedorov-joins-consensuslab-as-a-research-engineer/) the [ConsensusLab](https://research.protocol.ai/groups/consensuslab/) Group at [Protocol Labs](https://protocol.ai/). I worked with Protocol Labs, doing research and open-source software engineering in the area of scalable decentralised consensus, until I left in February 2023. 
+In April 2022, I left NEC and [joined](https://research.protocol.ai/blog/2022/sergey-fedorov-joins-consensuslab-as-a-research-engineer/) the [ConsensusLab](https://research.protocol.ai/groups/consensuslab/) Group at [Protocol Labs](https://protocol.ai/). I worked with Protocol Labs, doing research and open-source software engineering in the area of scalable decentralised consensus, until February 2023. 
 
-In March 2023, I decided to start the [Replica_IO](https://replica-io.dev/) project, something that I've been thinking about for several years, but never managed to find room for. With this project, I want to make a breakthrough in how distributed systems are designed and implemented in practice.
+In March 2023, I decided to start the [Replica_IO](https://replica-io.dev/) project, something that I've been thinking about for years, but never managed to find room for. With this project, I want to make a breakthrough in how distributed systems are designed and implemented in practice.
 
 ### Previous Projects
 
 Here are some open-source projects I worked on:
 
- - [Interplanetary Consensus (IPC)](http://fil.space/#components) - a framework to enable on-demand horizontal scalability of Filecoin blockchain. My contribution included redesign and implementation of the atomic cross-chain transaction execution protocol in Rust.
- - [Mir](http://github.com/filecoin-project/mir) - a framework for implementing, debugging, and analyzing distributed protocols. My contribution included implementation of the checkpointing mechanism, protocol garbage collection, basic mechanism for reproducible testing with simulated time, simple benchmarks.
+ - [Interplanetary Consensus (IPC)](http://fil.space/#components) - a framework to enable on-demand horizontal scalability of Filecoin blockchain. My main contribution was redesign and implementation of the atomic cross-chain transaction execution protocol in Rust.
+ - [Mir](http://github.com/filecoin-project/mir) - a framework for implementing, debugging, and analyzing distributed protocols. My main contribution was implementation of the checkpointing mechanism, protocol garbage collection, basic mechanism for reproducible testing with simulated time.
  - [MinBFT Hyperledger Lab](http://github.com/hyperledger-labs/minbft) - an implementation of MinBFT consensus protocol as a pluggable software component. I was the main author, contributor, and maintainer of the project.
- - [Qemu](http://qemu.org) - a generic machine emulator and virtualizer. My contribution included enhancing ARM emulation, enabling ARM TrustZone support, enabling multithreading support in the binary translation engine.
+ - [Qemu](http://qemu.org) - a generic machine emulator and virtualizer. My main contribution was enhancing ARM emulation, enabling ARM TrustZone support, enabling multithreading support in the binary translation engine.
 
 ### Publications
 
