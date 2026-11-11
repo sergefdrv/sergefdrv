@@ -8,7 +8,7 @@ Hi! 👋 I'm Sergey Fedorov, an Independent Research Engineer who enjoys investi
 
 Much of my interest centers on decentralized, Byzantine-fault tolerant mechanisms — though I suspect the underlying insights may open new perspectives on distributed coordination in general, maybe even beyond computing itself. I believe in open source, open innovation, and collaboration.
 
-[Replica_IO](https://replica-io.dev/) is my own initiative in this direction — an independent, open-ended effort to rethink distributed and concurrent computing from first principles. The emerging ideas are to take shape in a minimalistic, Rust-based open-source framework for core replication and coordination mechanisms of decentralized, distributed systems, such as BFT consensus. This work has been kindly supported by [BlueYard Capital](https://www.blueyard.com/) through their [DYOR](https://blueyard.medium.com/announcing-the-blueyard-dyor-do-your-own-research-funding-program-9be5f2f23d37) funding program.
+[Replica_IO](https://replica-io.dev/) is my own initiative in this direction — an independent, open-ended effort to rethink distributed and concurrent computing from first principles. The emerging ideas are to take shape in a minimalistic, Rust-based open-source framework for core replication and coordination mechanisms of decentralized, distributed systems, such as BFT consensus. This work was partly supported by [BlueYard Capital](https://www.blueyard.com/) through their [DYOR](https://blueyard.medium.com/announcing-the-blueyard-dyor-do-your-own-research-funding-program-9be5f2f23d37) funding program.
 
 ## My Experience
 
